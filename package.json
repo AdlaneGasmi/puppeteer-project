@@ -1,0 +1,16 @@
+{
+  "name": "pupeeteer-test-pratique",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Adlane  GASMI",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^9.1.0",
+    "puppeteer": "^8.0.0"
+  }
+}
